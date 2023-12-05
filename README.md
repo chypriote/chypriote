@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Nicolas</h1>
 <h3>Full stack developer. Mostly working with Vue.js and Symfony.</h3>
 
-<h4><a href="https://nicolastem.fr">Check my portfolio !</a></h4>
+<h4><a href="https://nicolastem.netlify.app">Check my portfolio !</a></h4>
 
 
 <br/>
